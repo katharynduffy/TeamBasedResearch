@@ -1,5 +1,9 @@
-book_filename: "Team-Based Interdisciplinary Research"
+book_filename: "Team-Based-Inter-Research"
+delete_merged_file: true
+output_dir: "/Users/kdw223/Research/Team-Based-Inter-Research/docs"
+new_session: yes
+always_allow_html: true
+link-citations: true
 language:
   ui:
-    chapter_name: "Chapter "
-delete_merged_file: true
+    chapter_name: " "

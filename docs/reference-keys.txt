@@ -1,0 +1,10 @@
+fig:nice-fig
+tab:nice-tab
+the-goals-of-this-course
+intro
+how-this-course-will-opperate
+course-schedule
+applications-resources
+example-one
+example-two
+final-words

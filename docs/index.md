@@ -1,7 +1,7 @@
 --- 
 title: "Team-Based Interdisciplinary Research"
 author: "Dr. Kiona Ogle & Dr. Katharyn Duffy"
-date: "`r Sys.Date()`"
+date: "2021-08-22"
 site: bookdown::bookdown_site
 documentclass: book
 output: bookdown::gitbook
