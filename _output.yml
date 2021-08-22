@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Team-Based Interdisciplinary Research</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Northern Arizona University: EcoInformatics</a></li>
+        <li><a href="" target="blank">Northern Arizona University: EcoInformatics</a></li>
     edit: https://github.com/katharynduffy/TeamBasedResearch/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
