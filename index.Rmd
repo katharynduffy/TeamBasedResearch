@@ -1,6 +1,6 @@
 --- 
 title: "Team-Based Interdisciplinary Research"
-author: "Dr. Kiona Ogle & Dr. Katharyn Duffy"
+author: "Dr. Kiona Ogle (Lead Instructor), Dr. Katharyn Duffy (Co-Lead Instructor), & Dr. Kimberly Samuels-Crow (Contributing Instructor)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
