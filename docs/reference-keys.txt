@@ -8,3 +8,4 @@ applications-resources
 example-one
 example-two
 final-words
+student-learning-outcomes

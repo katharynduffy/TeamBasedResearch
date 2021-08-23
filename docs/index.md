@@ -1,7 +1,7 @@
 --- 
 title: "Team-Based Interdisciplinary Research"
-author: "Dr. Kiona Ogle & Dr. Katharyn Duffy"
-date: "2021-08-22"
+author: "Dr. Kiona Ogle (Lead Instructor), Dr. Katharyn Duffy (Co-Lead Instructor), & Dr. Kimberly Samuels-Crow (Contributing Instructor)"
+date: "2021-08-23"
 site: bookdown::bookdown_site
 documentclass: book
 output: bookdown::gitbook
@@ -12,6 +12,11 @@ link-citations: yes
 description: "TCourse wiki for INF 599"
 ---
 # Welcome to Team-Based Interdisciplinary Research {-}
+
+
+![](/Users/kdw223/Research/TeamBasedResearch/images/intro_1.jpeg)
+
+> Science is a complex business, as this map of journal cross-citations shows. Each node represents a subdiscipline and the lines represent the strength of similarity between the nodes. Image: Rafols, Ismael, Alan L. Porter, and Loet Leydesdorff. "Science overlay maps: A new tool for research policy and library management." Journal of the American Society for information Science and Technology 61.9 (2010): 1871-1887.
 
 ## The Goals of this Course
 
@@ -30,3 +35,17 @@ The purpose of this course is to prepare **you** for a future career that involv
 - collaborative presentations.
 
   As teams you will employ these team-science skills to develop an interdisciplinary research proposal, to conduct preliminary research that aligns with the proposed project, and to develop and deliver an oral presentation of their proposed research and preliminary results. Towards developing a research proposal and conducting preliminary analyses, students will work together to develop the team’s rules of conduct and a project plan or roadmap. The team will work together to review relevant literature, to initiate preliminary analyses, coding, or modeling, to identify individual and team-oriented tasks, and to set milestones. The course will culminate with submission of a fully developed research proposal and team presentations of their proposed research project, preliminary results, and potential future directions.
+  
+## Student Learning Outcomes
+
+Upon completion of this course, you as students (and student teams) will have:
+
+- Learned effective team-science skills and actively applied these skills to a collaborative project.
+- Gained experience in individual and team project management.
+- Acquired skills in developing and implementing team policies, procedures, and expectations.
+- Assembled into teams to collaborate on a research proposal and preliminary analysis.
+- Identified a research question/problem that all members of the team can participate in.
+- Identified appropriate methods and approaches to tackle the proposed research project.
+- Gained experience writing a concise and compelling research proposal as a team.
+- Delivered a collaborative presentation on their research ideas and results.
+
