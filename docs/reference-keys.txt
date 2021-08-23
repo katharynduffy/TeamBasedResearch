@@ -1,11 +1,12 @@
-fig:nice-fig
-tab:nice-tab
+tab:gen-tab
 the-goals-of-this-course
+student-learning-outcomes
+acknowledgements
 intro
+schedule
 how-this-course-will-opperate
 course-schedule
 applications-resources
 example-one
 example-two
 final-words
-student-learning-outcomes

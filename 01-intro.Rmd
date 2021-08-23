@@ -1,21 +1,22 @@
-# Introduction {#intro}
+# Course Logistics & Schedule {#intro}
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+First offering of this course. 
+May adjust the course plan and materials as the semester progresses, in response to feedback and experiences, but we will let you know of changes to the plan, schedule, activities, and/or grading system.
+We will maintain a “live” course schedule on the course Wiki
 
-Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
 
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
+## Course Overview Schedule {#schedule}
+
+```{r, echo=FALSE, silent=TRUE}
+General_Schedule_1 <- read.csv("~/Research/TeamBasedResearch/General_Schedule_1.csv")
 ```
 
-Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
 
-```{r nice-tab, tidy=FALSE}
+```{r gen-tab, tidy=FALSE, silent=TRUE}
 knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
+  General_Schedule_1, caption = 'Overview of course topics',
   booktabs = TRUE
 )
 ```
 
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+

@@ -1,55 +1,45 @@
-# Introduction {#intro}
+# Course Logistics & Schedule {#intro}
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+First offering of this course. 
+May adjust the course plan and materials as the semester progresses, in response to feedback and experiences, but we will let you know of changes to the plan, schedule, activities, and/or grading system.
+We will maintain a “live” course schedule on the course Wiki
 
-Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
+
+## Course Overview Schedule {#schedule}
 
 
-```r
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
 
-<div class="figure" style="text-align: center">
-<img src="01-intro_files/figure-html/nice-fig-1.png" alt="Here is a nice figure!" width="80%" />
-<p class="caption">(\#fig:nice-fig)Here is a nice figure!</p>
-</div>
-
-Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
 
 
 ```r
 knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
+  General_Schedule_1, caption = 'Overview of course topics',
   booktabs = TRUE
 )
 ```
 
 
 
-Table: (\#tab:nice-tab)Here is a nice table!
+Table: (\#tab:gen-tab)Overview of course topics
 
-| Sepal.Length| Sepal.Width| Petal.Length| Petal.Width|Species |
-|------------:|-----------:|------------:|-----------:|:-------|
-|          5.1|         3.5|          1.4|         0.2|setosa  |
-|          4.9|         3.0|          1.4|         0.2|setosa  |
-|          4.7|         3.2|          1.3|         0.2|setosa  |
-|          4.6|         3.1|          1.5|         0.2|setosa  |
-|          5.0|         3.6|          1.4|         0.2|setosa  |
-|          5.4|         3.9|          1.7|         0.4|setosa  |
-|          4.6|         3.4|          1.4|         0.3|setosa  |
-|          5.0|         3.4|          1.5|         0.2|setosa  |
-|          4.4|         2.9|          1.4|         0.2|setosa  |
-|          4.9|         3.1|          1.5|         0.1|setosa  |
-|          5.4|         3.7|          1.5|         0.2|setosa  |
-|          4.8|         3.4|          1.6|         0.2|setosa  |
-|          4.8|         3.0|          1.4|         0.1|setosa  |
-|          4.3|         3.0|          1.1|         0.1|setosa  |
-|          5.8|         4.0|          1.2|         0.2|setosa  |
-|          5.7|         4.4|          1.5|         0.4|setosa  |
-|          5.4|         3.9|          1.3|         0.4|setosa  |
-|          5.1|         3.5|          1.4|         0.3|setosa  |
-|          5.7|         3.8|          1.7|         0.3|setosa  |
-|          5.1|         3.8|          1.5|         0.3|setosa  |
+|Course.Block                                                           |Topic                                                                                               |
+|:----------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|
+|Block 1: Initial traing in team-science skills                         |                                                                                                    |
+|                                                                       |Importance and rise of collaborative, interdisciplinary resarch and science                         |
+|                                                                       |Team building, team diversity, and social sensitivity                                               |
+|                                                                       |Effective leadership skills; Effective team communication                                           |
+|                                                                       |Constructive & destructive group behaviors; Conflict resolution                                     |
+|                                                                       |Collaboration tools & strategies                                                                    |
+|                                                                       |Collaborative manuscript & proposal writing                                                         |
+|                                                                       |Individual and team time and project management                                                     |
+|Block 2: Apply team-science skills through collaborative team projects |                                                                                                    |
+|                                                                       |Developing the team and the team-project; team composition                                          |
+|                                                                       |Mapping a joint vision; Key project objectives or performance indicators                            |
+|                                                                       |Project workflow & concept maps; Group dynamics and member contributions                            |
+|                                                                       |Creating effective team policies, procedures and expectations; Authorship and data sharing policies |
+|                                                                       |Data management plans                                                                               |
+|                                                                       |Assessing team functioning; Virtual collaboration                                                   |
+|                                                                       |Methods and modes for group self-assessment                                                         |
+|                                                                       |Final collabrative group presentations                                                              |
 
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+

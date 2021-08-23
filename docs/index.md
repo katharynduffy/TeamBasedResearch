@@ -9,14 +9,16 @@ github-repo: 'katharynduffy/katharynduffy.github.io'
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "TCourse wiki for INF 599"
+description: "Course wiki for INF 599"
 ---
-# Welcome to Team-Based Interdisciplinary Research {-}
 
+# Preface {-}
 
 ![](/Users/kdw223/Research/TeamBasedResearch/images/intro_1.jpeg)
 
-> Science is a complex business, as this map of journal cross-citations shows. Each node represents a subdiscipline and the lines represent the strength of similarity between the nodes. Image: Rafols, Ismael, Alan L. Porter, and Loet Leydesdorff. "Science overlay maps: A new tool for research policy and library management." Journal of the American Society for information Science and Technology 61.9 (2010): 1871-1887.
+> Science is a complex business, as this map of journal cross-citations shows. Each node represents a subdiscipline and the lines represent the strength of similarity between the nodes. Image: Rafols, Ismael, Alan L. Porter, and Loet Leydesdorff. "Science overlay maps: A new tool for research policy and library management." Journal of the American Society for information Science and Technology 61.9 (2010): 1871-1887. 
+
+[@rafols2010science]
 
 ## The Goals of this Course
 
@@ -49,3 +51,17 @@ Upon completion of this course, you as students (and student teams) will have:
 - Gained experience writing a concise and compelling research proposal as a team.
 - Delivered a collaborative presentation on their research ideas and results.
 
+## Acknowledgements
+
+These resources are under active development to offer INF559, a graduate course in the School of Informatics Computing and Cyber Systems at Northern Arizona University in Fall 2020, with funding and leadership from the National Science Foundation funded National Research Traineeship “T3” option in Ecological and Environmental Informatics within a PhD program in Informatics and Computing (NRT-HDR #1829075, PI’s Ogle, Barber, Richardson, Ruddell, and Sankey).
+
+A number of open resources are linked within these materials with credit given to key collaborators.  These currently include:
+
+- Stephanie Hampton, Director of NSF’s Division of Environmental Biology
+- Cassie Petit, NAU University Leadership Program and Assistant Director of Operations for CEIAS
+- Jennifer Long, Program Director, Masters of Conservation and Restoration Science Education & Outreach Coordinator at UC-Irvine
+- Emily Graham, Research Scientist at the Pacific Northwest National Laboratory
+- Kendra Cheruvelil, Interim Dean and Professor, Department of Fisheries and Wildlife & Lyman Briggs College, Michigan State University
+- Jill Baron, Co-Director of the USGS John Wesley Powell Center for Analysis and Synthesis 
+- Amber Budden, Director of Learning and Outreach at National Center for Ecological Analysis and Synthesis (NCEAS)
+- Julia Chacon Labella, Post-doc at the University of Arizona
