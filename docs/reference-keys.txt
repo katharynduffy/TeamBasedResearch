@@ -1,12 +1,14 @@
-tab:gen-tab
-the-goals-of-this-course
+tab:unnamed-chunk-2
+goals-of-this-course
 student-learning-outcomes
 acknowledgements
 intro
 schedule
+course-detailed-schedule
 how-this-course-will-opperate
 course-schedule
 applications-resources
 example-one
 example-two
 final-words
+course-logistics

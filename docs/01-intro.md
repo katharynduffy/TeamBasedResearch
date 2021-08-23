@@ -1,8 +1,8 @@
 # Course Logistics & Schedule {#intro}
 
-First offering of this course. 
-May adjust the course plan and materials as the semester progresses, in response to feedback and experiences, but we will let you know of changes to the plan, schedule, activities, and/or grading system.
-We will maintain a “live” course schedule on the course Wiki
+As this is the first offering of this course we may adjust the course plan and materials as the semester progresses, in response to feedback and experiences, but we will let you know of changes to the plan, schedule, activities, and/or grading system.
+
+We will maintain a “live” course schedule on this course wiki below:
 
 
 ## Course Overview Schedule {#schedule}
@@ -11,20 +11,11 @@ We will maintain a “live” course schedule on the course Wiki
 
 
 
-```r
-knitr::kable(
-  General_Schedule_1, caption = 'Overview of course topics',
-  booktabs = TRUE
-)
-```
-
-
-
-Table: (\#tab:gen-tab)Overview of course topics
+Table: (\#tab:unnamed-chunk-2)Overview of course topics
 
 |Course.Block                                                           |Topic                                                                                               |
 |:----------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|
-|Block 1: Initial traing in team-science skills                         |                                                                                                    |
+|Block 1: Initial traning in team-science skills                        |                                                                                                    |
 |                                                                       |Importance and rise of collaborative, interdisciplinary resarch and science                         |
 |                                                                       |Team building, team diversity, and social sensitivity                                               |
 |                                                                       |Effective leadership skills; Effective team communication                                           |
@@ -42,4 +33,9 @@ Table: (\#tab:gen-tab)Overview of course topics
 |                                                                       |Methods and modes for group self-assessment                                                         |
 |                                                                       |Final collabrative group presentations                                                              |
 
+## Course Logistics
 
+
+## Course Detailed Schedule
+
+*coming soon*

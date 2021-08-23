@@ -1,8 +1,8 @@
 # Course Logistics & Schedule {#intro}
 
-First offering of this course. 
-May adjust the course plan and materials as the semester progresses, in response to feedback and experiences, but we will let you know of changes to the plan, schedule, activities, and/or grading system.
-We will maintain a “live” course schedule on the course Wiki
+As this is the first offering of this course we may adjust the course plan and materials as the semester progresses, in response to feedback and experiences, but we will let you know of changes to the plan, schedule, activities, and/or grading system.
+
+We will maintain a “live” course schedule on this course wiki below:
 
 
 ## Course Overview Schedule {#schedule}
@@ -12,11 +12,16 @@ General_Schedule_1 <- read.csv("~/Research/TeamBasedResearch/General_Schedule_1.
 ```
 
 
-```{r gen-tab, tidy=FALSE, silent=TRUE}
+```{r, echo=FALSE, silent=TRUE}
 knitr::kable(
   General_Schedule_1, caption = 'Overview of course topics',
   booktabs = TRUE
 )
 ```
 
+## Course Logistics
 
+
+## Course Detailed Schedule
+
+*coming soon*

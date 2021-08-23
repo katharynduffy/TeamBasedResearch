@@ -20,7 +20,7 @@ description: "Course wiki for INF 599"
 
 [@rafols2010science]
 
-## The Goals of this Course
+## Goals of this Course
 
 The purpose of this course is to prepare **you** for a future career that involves collaborative or team-based approaches to scientific research and problem solving. Through this course you will gain expertise in team-science concepts and approaches, including:
 
